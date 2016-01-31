@@ -1,0 +1,5 @@
+Hello Leon,
+
+I've set us up with a git repository and added this note to it to test that I could.
+
+Bye.
